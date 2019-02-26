@@ -87,7 +87,6 @@ class Game():
                 print("Invalid Input.\n")
                 continue
 
-    # TODO: Evaluate player input
 
 gameinstance = Game() #important for the game- it starts because of this code
 gameinstance.game_loop() # we add the game_loop to be played.
